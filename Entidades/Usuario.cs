@@ -8,6 +8,7 @@ namespace Entidades
 {
     public class Usuario : Entidades
     {
+        string _atributoAgregado;
         string _nombreUsuario;
         string _clave;
         string _nombre;
